@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-08-07T14:25:19+00:00",
+ "updatedAt": "2026-08-08T04:25:26+00:00",
  "source": "Banco Central de Venezuela — Tasas informativas del sistema bancario",
  "sourceUrl": "https://www.bcv.org.ve/tasas-informativas-sistema-bancario",
  "count": 17,
- "average": 766.1341,
+ "average": 736.2487,
  "banks": [
   {
    "slug": "bancaribe",
@@ -38,28 +38,12 @@
    "updatedAt": "2026-07-22"
   },
   {
-   "slug": "otras-instituciones",
-   "name": "Otras Instituciones",
-   "buy": 790.3664,
-   "sell": 775.9509,
-   "rate": 775.9509,
-   "updatedAt": "2026-08-06"
-  },
-  {
    "slug": "banco-plaza",
    "name": "Banco Plaza",
    "buy": 769.4752,
    "sell": 769.5652,
    "rate": 769.5652,
    "updatedAt": "2026-08-04"
-  },
-  {
-   "slug": "banco-nacional-de-credito-bnc",
-   "name": "Banco Nacional de Crédito BNC",
-   "buy": 755.2129,
-   "sell": 765.0363,
-   "rate": 765.0363,
-   "updatedAt": "2026-08-06"
   },
   {
    "slug": "banco-venezolano-de-credito",
@@ -86,44 +70,12 @@
    "updatedAt": "2026-08-03"
   },
   {
-   "slug": "bbva-provincial",
-   "name": "BBVA Provincial",
-   "buy": 755.2867,
-   "sell": 755.926,
-   "rate": 755.926,
-   "updatedAt": "2026-08-06"
-  },
-  {
-   "slug": "n58-banco-digital",
-   "name": "N58 Banco Digital",
-   "buy": 755.3606,
-   "sell": 755.7206,
-   "rate": 755.7206,
-   "updatedAt": "2026-08-06"
-  },
-  {
-   "slug": "banesco",
-   "name": "Banesco",
-   "buy": 777.7017,
-   "sell": 755.3543,
-   "rate": 755.3543,
-   "updatedAt": "2026-08-06"
-  },
-  {
    "slug": "banco-mercantil",
    "name": "Banco Mercantil",
    "buy": 755.1552,
    "sell": 755.2051,
    "rate": 755.2051,
    "updatedAt": "2026-08-05"
-  },
-  {
-   "slug": "bancamiga",
-   "name": "Bancamiga",
-   "buy": 734.2306,
-   "sell": 737.8964,
-   "rate": 737.8964,
-   "updatedAt": "2026-07-27"
   },
   {
    "slug": "bangente",
@@ -140,6 +92,54 @@
    "sell": 725.747,
    "rate": 725.747,
    "updatedAt": "2026-07-15"
+  },
+  {
+   "slug": "otras-instituciones",
+   "name": "Otras Instituciones",
+   "buy": 698.8208,
+   "sell": 708.0825,
+   "rate": 708.0825,
+   "updatedAt": "2026-08-07"
+  },
+  {
+   "slug": "banesco",
+   "name": "Banesco",
+   "buy": 665.9094,
+   "sell": 675.1891,
+   "rate": 675.1891,
+   "updatedAt": "2026-08-07"
+  },
+  {
+   "slug": "bancamiga",
+   "name": "Bancamiga",
+   "buy": 667.151,
+   "sell": 667.1964,
+   "rate": 667.1964,
+   "updatedAt": "2026-08-07"
+  },
+  {
+   "slug": "banco-nacional-de-credito-bnc",
+   "name": "Banco Nacional de Crédito BNC",
+   "buy": 666.3822,
+   "sell": 667.0803,
+   "rate": 667.0803,
+   "updatedAt": "2026-08-07"
+  },
+  {
+   "slug": "bbva-provincial",
+   "name": "BBVA Provincial",
+   "buy": 667.9755,
+   "sell": 666.9842,
+   "rate": 666.9842,
+   "updatedAt": "2026-08-07"
+  },
+  {
+   "slug": "n58-banco-digital",
+   "name": "N58 Banco Digital",
+   "buy": 652.9726,
+   "sell": 653.3,
+   "rate": 653.3,
+   "updatedAt": "2026-08-07"
   }
  ]
 }
