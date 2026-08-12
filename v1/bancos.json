@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-08-11T14:25:24+00:00",
+ "updatedAt": "2026-08-12T04:25:29+00:00",
  "source": "Banco Central de Venezuela — Tasas informativas del sistema bancario",
  "sourceUrl": "https://www.bcv.org.ve/tasas-informativas-sistema-bancario",
  "count": 17,
- "average": 763.2989,
- "averageCount": 12,
+ "average": 774.2825,
+ "averageCount": 11,
  "averageDays": 7,
  "banks": [
   {
@@ -18,26 +18,18 @@
   {
    "slug": "r4",
    "name": "R4",
-   "buy": 829.2648,
-   "sell": 832.6923,
-   "rate": 832.6923,
-   "updatedAt": "2026-08-10"
+   "buy": 801.2338,
+   "sell": 830.9738,
+   "rate": 830.9738,
+   "updatedAt": "2026-08-11"
   },
   {
    "slug": "bancaribe",
    "name": "BanCaribe",
-   "buy": 812.5933,
-   "sell": 821.9961,
-   "rate": 821.9961,
-   "updatedAt": "2026-08-10"
-  },
-  {
-   "slug": "banesco",
-   "name": "Banesco",
-   "buy": 805.3938,
-   "sell": 815.682,
-   "rate": 815.682,
-   "updatedAt": "2026-08-10"
+   "buy": 829.3415,
+   "sell": 829.3581,
+   "rate": 829.3581,
+   "updatedAt": "2026-08-11"
   },
   {
    "slug": "banco-activo",
@@ -50,10 +42,34 @@
   {
    "slug": "otras-instituciones",
    "name": "Otras Instituciones",
-   "buy": 784.5358,
-   "sell": 795.1587,
-   "rate": 795.1587,
-   "updatedAt": "2026-08-10"
+   "buy": 779.5179,
+   "sell": 793.5418,
+   "rate": 793.5418,
+   "updatedAt": "2026-08-11"
+  },
+  {
+   "slug": "banesco",
+   "name": "Banesco",
+   "buy": 812.4288,
+   "sell": 793.0164,
+   "rate": 793.0164,
+   "updatedAt": "2026-08-11"
+  },
+  {
+   "slug": "banco-mercantil",
+   "name": "Banco Mercantil",
+   "buy": 780.5305,
+   "sell": 789.9826,
+   "rate": 789.9826,
+   "updatedAt": "2026-08-11"
+  },
+  {
+   "slug": "banco-nacional-de-credito-bnc",
+   "name": "Banco Nacional de Crédito BNC",
+   "buy": 761.1742,
+   "sell": 778.0287,
+   "rate": 778.0287,
+   "updatedAt": "2026-08-11"
   },
   {
    "slug": "banco-plaza",
@@ -96,14 +112,6 @@
    "updatedAt": "2026-08-10"
   },
   {
-   "slug": "banco-mercantil",
-   "name": "Banco Mercantil",
-   "buy": 755.1552,
-   "sell": 755.2051,
-   "rate": 755.2051,
-   "updatedAt": "2026-08-05"
-  },
-  {
    "slug": "bangente",
    "name": "Bangente",
    "buy": 721.3456,
@@ -125,14 +133,6 @@
    "buy": 667.151,
    "sell": 667.1964,
    "rate": 667.1964,
-   "updatedAt": "2026-08-07"
-  },
-  {
-   "slug": "banco-nacional-de-credito-bnc",
-   "name": "Banco Nacional de Crédito BNC",
-   "buy": 666.3822,
-   "sell": 667.0803,
-   "rate": 667.0803,
    "updatedAt": "2026-08-07"
   },
   {
