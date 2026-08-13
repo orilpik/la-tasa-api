@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-08-12T14:25:20+00:00",
+ "updatedAt": "2026-08-13T04:25:29+00:00",
  "source": "Banco Central de Venezuela — Tasas informativas del sistema bancario",
  "sourceUrl": "https://www.bcv.org.ve/tasas-informativas-sistema-bancario",
  "count": 17,
- "average": 774.2825,
+ "average": 788.9321,
  "averageCount": 11,
  "averageDays": 7,
  "banks": [
@@ -24,12 +24,36 @@
    "updatedAt": "2026-08-11"
   },
   {
+   "slug": "banesco",
+   "name": "Banesco",
+   "buy": 789.5302,
+   "sell": 829.3381,
+   "rate": 829.3381,
+   "updatedAt": "2026-08-12"
+  },
+  {
    "slug": "bancaribe",
    "name": "BanCaribe",
-   "buy": 829.3415,
-   "sell": 829.3581,
-   "rate": 829.3581,
-   "updatedAt": "2026-08-11"
+   "buy": 818.5029,
+   "sell": 828.7569,
+   "rate": 828.7569,
+   "updatedAt": "2026-08-12"
+  },
+  {
+   "slug": "otras-instituciones",
+   "name": "Otras Instituciones",
+   "buy": 806.7022,
+   "sell": 818.1549,
+   "rate": 818.1549,
+   "updatedAt": "2026-08-12"
+  },
+  {
+   "slug": "bbva-provincial",
+   "name": "BBVA Provincial",
+   "buy": 764.4303,
+   "sell": 809.7577,
+   "rate": 809.7577,
+   "updatedAt": "2026-08-12"
   },
   {
    "slug": "banco-activo",
@@ -40,44 +64,28 @@
    "updatedAt": "2026-07-22"
   },
   {
-   "slug": "otras-instituciones",
-   "name": "Otras Instituciones",
-   "buy": 779.5179,
-   "sell": 793.5418,
-   "rate": 793.5418,
-   "updatedAt": "2026-08-11"
-  },
-  {
-   "slug": "banesco",
-   "name": "Banesco",
-   "buy": 812.4288,
-   "sell": 793.0164,
-   "rate": 793.0164,
-   "updatedAt": "2026-08-11"
-  },
-  {
-   "slug": "banco-mercantil",
-   "name": "Banco Mercantil",
-   "buy": 780.5305,
-   "sell": 789.9826,
-   "rate": 789.9826,
-   "updatedAt": "2026-08-11"
-  },
-  {
-   "slug": "banco-nacional-de-credito-bnc",
-   "name": "Banco Nacional de Crédito BNC",
-   "buy": 761.1742,
-   "sell": 778.0287,
-   "rate": 778.0287,
-   "updatedAt": "2026-08-11"
-  },
-  {
    "slug": "banco-plaza",
    "name": "Banco Plaza",
    "buy": 769.4752,
    "sell": 769.5652,
    "rate": 769.5652,
    "updatedAt": "2026-08-04"
+  },
+  {
+   "slug": "banco-mercantil",
+   "name": "Banco Mercantil",
+   "buy": 764.3486,
+   "sell": 764.3985,
+   "rate": 764.3985,
+   "updatedAt": "2026-08-12"
+  },
+  {
+   "slug": "banco-nacional-de-credito-bnc",
+   "name": "Banco Nacional de Crédito BNC",
+   "buy": 764.349,
+   "sell": 761.6509,
+   "rate": 761.6509,
+   "updatedAt": "2026-08-12"
   },
   {
    "slug": "banco-venezolano-de-credito",
@@ -133,14 +141,6 @@
    "buy": 667.151,
    "sell": 667.1964,
    "rate": 667.1964,
-   "updatedAt": "2026-08-07"
-  },
-  {
-   "slug": "bbva-provincial",
-   "name": "BBVA Provincial",
-   "buy": 667.9755,
-   "sell": 666.9842,
-   "rate": 666.9842,
    "updatedAt": "2026-08-07"
   }
  ]
