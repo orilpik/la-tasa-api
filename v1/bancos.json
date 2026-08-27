@@ -1,35 +1,35 @@
 {
- "updatedAt": "2026-08-26T14:25:25+00:00",
+ "updatedAt": "2026-08-27T04:25:29+00:00",
  "source": "Banco Central de Venezuela — Tasas informativas del sistema bancario",
  "sourceUrl": "https://www.bcv.org.ve/tasas-informativas-sistema-bancario",
  "count": 17,
- "average": 811.5336,
- "averageCount": 11,
+ "average": 819.4519,
+ "averageCount": 10,
  "averageDays": 7,
  "banks": [
   {
    "slug": "bancaribe",
    "name": "BanCaribe",
-   "buy": 859.4771,
-   "sell": 875.0,
-   "rate": 875.0,
-   "updatedAt": "2026-08-24"
-  },
-  {
-   "slug": "otras-instituciones",
-   "name": "Otras Instituciones",
-   "buy": 830.7824,
-   "sell": 852.9968,
-   "rate": 852.9968,
-   "updatedAt": "2026-08-25"
+   "buy": 866.8877,
+   "sell": 887.6094,
+   "rate": 887.6094,
+   "updatedAt": "2026-08-26"
   },
   {
    "slug": "banesco",
    "name": "Banesco",
-   "buy": 817.535,
-   "sell": 843.5737,
-   "rate": 843.5737,
-   "updatedAt": "2026-08-25"
+   "buy": 842.3583,
+   "sell": 858.6865,
+   "rate": 858.6865,
+   "updatedAt": "2026-08-26"
+  },
+  {
+   "slug": "otras-instituciones",
+   "name": "Otras Instituciones",
+   "buy": 812.8184,
+   "sell": 838.7517,
+   "rate": 838.7517,
+   "updatedAt": "2026-08-26"
   },
   {
    "slug": "banco-activo",
@@ -56,6 +56,14 @@
    "updatedAt": "2026-08-17"
   },
   {
+   "slug": "n58-banco-digital",
+   "name": "N58 Banco Digital",
+   "buy": 806.3217,
+   "sell": 806.4168,
+   "rate": 806.4168,
+   "updatedAt": "2026-08-26"
+  },
+  {
    "slug": "banco-nacional-de-credito-bnc",
    "name": "Banco Nacional de Crédito BNC",
    "buy": 785.7598,
@@ -80,6 +88,14 @@
    "updatedAt": "2026-08-17"
   },
   {
+   "slug": "bbva-provincial",
+   "name": "BBVA Provincial",
+   "buy": 787.6015,
+   "sell": 793.6961,
+   "rate": 793.6961,
+   "updatedAt": "2026-08-26"
+  },
+  {
    "slug": "banco-plaza",
    "name": "Banco Plaza",
    "buy": 792.6395,
@@ -90,18 +106,10 @@
   {
    "slug": "banco-mercantil",
    "name": "Banco Mercantil",
-   "buy": 799.2757,
-   "sell": 785.0738,
-   "rate": 785.0738,
-   "updatedAt": "2026-08-25"
-  },
-  {
-   "slug": "bbva-provincial",
-   "name": "BBVA Provincial",
-   "buy": 785.0692,
-   "sell": 785.052,
-   "rate": 785.052,
-   "updatedAt": "2026-08-25"
+   "buy": 796.4595,
+   "sell": 787.5629,
+   "rate": 787.5629,
+   "updatedAt": "2026-08-26"
   },
   {
    "slug": "banco-sofitasa",
@@ -110,14 +118,6 @@
    "sell": 783.1,
    "rate": 783.1,
    "updatedAt": "2026-08-19"
-  },
-  {
-   "slug": "n58-banco-digital",
-   "name": "N58 Banco Digital",
-   "buy": 779.9522,
-   "sell": 780.2773,
-   "rate": 780.2773,
-   "updatedAt": "2026-08-24"
   },
   {
    "slug": "100-banco",
