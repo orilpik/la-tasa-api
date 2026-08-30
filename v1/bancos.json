@@ -1,8 +1,8 @@
 {
- "updatedAt": "2026-08-29T14:25:19+00:00",
+ "updatedAt": "2026-08-30T04:25:23+00:00",
  "source": "Banco Central de Venezuela — Tasas informativas del sistema bancario",
  "sourceUrl": "https://www.bcv.org.ve/tasas-informativas-sistema-bancario",
- "count": 16,
+ "count": 14,
  "average": 834.2054,
  "averageCount": 10,
  "averageDays": 7,
@@ -118,22 +118,6 @@
    "sell": 783.1,
    "rate": 783.1,
    "updatedAt": "2026-08-19"
-  },
-  {
-   "slug": "100-banco",
-   "name": "100% Banco",
-   "buy": 758.472,
-   "sell": 759.8436,
-   "rate": 759.8436,
-   "updatedAt": "2026-07-15"
-  },
-  {
-   "slug": "banco-de-venezuela",
-   "name": "Banco de Venezuela",
-   "buy": 731.3427,
-   "sell": 725.747,
-   "rate": 725.747,
-   "updatedAt": "2026-07-15"
   }
  ]
 }
