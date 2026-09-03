@@ -1,51 +1,43 @@
 {
- "updatedAt": "2026-09-02T14:25:19+00:00",
+ "updatedAt": "2026-09-03T04:25:24+00:00",
  "source": "Banco Central de Venezuela — Tasas informativas del sistema bancario",
  "sourceUrl": "https://www.bcv.org.ve/tasas-informativas-sistema-bancario",
  "count": 14,
- "average": 838.7657,
+ "average": 834.6686,
  "averageCount": 9,
  "averageDays": 7,
  "banks": [
   {
-   "slug": "banesco",
-   "name": "Banesco",
-   "buy": 855.4969,
-   "sell": 904.2191,
-   "rate": 904.2191,
-   "updatedAt": "2026-09-01"
+   "slug": "otras-instituciones",
+   "name": "Otras Instituciones",
+   "buy": 877.8041,
+   "sell": 913.3882,
+   "rate": 913.3882,
+   "updatedAt": "2026-09-02"
   },
   {
    "slug": "bancaribe",
    "name": "BanCaribe",
-   "buy": 866.8877,
-   "sell": 887.6094,
-   "rate": 887.6094,
-   "updatedAt": "2026-08-26"
+   "buy": 891.2647,
+   "sell": 900.1935,
+   "rate": 900.1935,
+   "updatedAt": "2026-09-02"
   },
   {
-   "slug": "otras-instituciones",
-   "name": "Otras Instituciones",
-   "buy": 844.4226,
-   "sell": 879.7529,
-   "rate": 879.7529,
-   "updatedAt": "2026-09-01"
-  },
-  {
-   "slug": "banco-mercantil",
-   "name": "Banco Mercantil",
-   "buy": 846.0879,
-   "sell": 840.7677,
-   "rate": 840.7677,
-   "updatedAt": "2026-09-01"
+   "slug": "banesco",
+   "name": "Banesco",
+   "buy": 845.1751,
+   "sell": 849.762,
+   "rate": 849.762,
+   "updatedAt": "2026-09-02"
   },
   {
    "slug": "banco-nacional-de-credito-bnc",
    "name": "Banco Nacional de Crédito BNC",
-   "buy": 810.8675,
-   "sell": 836.2096,
-   "rate": 836.2096,
-   "updatedAt": "2026-09-01"
+   "buy": 819.3094,
+   "sell": 845.8251,
+   "rate": 845.8251,
+   "updatedAt": "2026-09-02"
   },
   {
    "slug": "banco-activo",
@@ -74,10 +66,18 @@
   {
    "slug": "n58-banco-digital",
    "name": "N58 Banco Digital",
-   "buy": 803.5234,
-   "sell": 803.6778,
-   "rate": 803.6778,
-   "updatedAt": "2026-09-01"
+   "buy": 804.8927,
+   "sell": 804.9688,
+   "rate": 804.9688,
+   "updatedAt": "2026-09-02"
+  },
+  {
+   "slug": "banco-mercantil",
+   "name": "Banco Mercantil",
+   "buy": 801.2313,
+   "sell": 801.2251,
+   "rate": 801.2251,
+   "updatedAt": "2026-09-02"
   },
   {
    "slug": "banco-venezolano-de-credito",
