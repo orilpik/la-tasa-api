@@ -1,12 +1,20 @@
 {
- "updatedAt": "2026-09-21T14:25:27+00:00",
+ "updatedAt": "2026-09-22T04:25:26+00:00",
  "source": "Banco Central de Venezuela — Tasas informativas del sistema bancario",
  "sourceUrl": "https://www.bcv.org.ve/tasas-informativas-sistema-bancario",
- "count": 16,
- "average": 895.9106,
- "averageCount": 10,
+ "count": 17,
+ "average": 896.5162,
+ "averageCount": 11,
  "averageDays": 7,
  "banks": [
+  {
+   "slug": "bfc-banco-fondo-comun",
+   "name": "BFC Banco Fondo Común",
+   "buy": 945.0,
+   "sell": 955.4429,
+   "rate": 955.4429,
+   "updatedAt": "2026-09-21"
+  },
   {
    "slug": "bancaribe",
    "name": "BanCaribe",
@@ -26,10 +34,10 @@
   {
    "slug": "otras-instituciones",
    "name": "Otras Instituciones",
-   "buy": 907.9888,
-   "sell": 935.0346,
-   "rate": 935.0346,
-   "updatedAt": "2026-09-18"
+   "buy": 912.5813,
+   "sell": 938.9868,
+   "rate": 938.9868,
+   "updatedAt": "2026-09-21"
   },
   {
    "slug": "r4",
@@ -42,10 +50,10 @@
   {
    "slug": "banesco",
    "name": "Banesco",
-   "buy": 867.0485,
-   "sell": 910.899,
-   "rate": 910.899,
-   "updatedAt": "2026-09-18"
+   "buy": 907.6192,
+   "sell": 910.8817,
+   "rate": 910.8817,
+   "updatedAt": "2026-09-21"
   },
   {
    "slug": "bbva-provincial",
@@ -64,20 +72,12 @@
    "updatedAt": "2026-09-07"
   },
   {
-   "slug": "banco-mercantil",
-   "name": "Banco Mercantil",
-   "buy": 869.5001,
-   "sell": 891.6955,
-   "rate": 891.6955,
-   "updatedAt": "2026-09-18"
-  },
-  {
    "slug": "banco-nacional-de-credito-bnc",
    "name": "Banco Nacional de Crédito BNC",
-   "buy": 839.6599,
-   "sell": 871.7482,
-   "rate": 871.7482,
-   "updatedAt": "2026-09-15"
+   "buy": 849.5616,
+   "sell": 855.6943,
+   "rate": 855.6943,
+   "updatedAt": "2026-09-21"
   },
   {
    "slug": "banco-venezolano-de-credito",
@@ -96,12 +96,20 @@
    "updatedAt": "2026-09-17"
   },
   {
+   "slug": "banco-mercantil",
+   "name": "Banco Mercantil",
+   "buy": 854.8542,
+   "sell": 849.6127,
+   "rate": 849.6127,
+   "updatedAt": "2026-09-21"
+  },
+  {
    "slug": "n58-banco-digital",
    "name": "N58 Banco Digital",
-   "buy": 847.6926,
-   "sell": 847.8197,
-   "rate": 847.8197,
-   "updatedAt": "2026-09-18"
+   "buy": 848.5656,
+   "sell": 849.1506,
+   "rate": 849.1506,
+   "updatedAt": "2026-09-21"
   },
   {
    "slug": "banco-activo",
