@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-09-28T14:25:25+00:00",
+ "updatedAt": "2026-09-29T04:25:27+00:00",
  "source": "Banco Central de Venezuela — Tasas informativas del sistema bancario",
  "sourceUrl": "https://www.bcv.org.ve/tasas-informativas-sistema-bancario",
- "count": 17,
- "average": 921.1071,
- "averageCount": 10,
+ "count": 18,
+ "average": 906.2122,
+ "averageCount": 11,
  "averageDays": 7,
  "banks": [
   {
@@ -24,14 +24,6 @@
    "updatedAt": "2026-09-22"
   },
   {
-   "slug": "banesco",
-   "name": "Banesco",
-   "buy": 936.2359,
-   "sell": 948.5281,
-   "rate": 948.5281,
-   "updatedAt": "2026-09-25"
-  },
-  {
    "slug": "r4",
    "name": "R4",
    "buy": 928.5871,
@@ -48,20 +40,12 @@
    "updatedAt": "2026-09-25"
   },
   {
-   "slug": "banco-nacional-de-credito-bnc",
-   "name": "Banco Nacional de Crédito BNC",
-   "buy": 858.864,
-   "sell": 932.9351,
-   "rate": 932.9351,
-   "updatedAt": "2026-09-24"
-  },
-  {
-   "slug": "otras-instituciones",
-   "name": "Otras Instituciones",
-   "buy": 900.5546,
-   "sell": 919.698,
-   "rate": 919.698,
-   "updatedAt": "2026-09-25"
+   "slug": "bbva-provincial",
+   "name": "BBVA Provincial",
+   "buy": 857.0058,
+   "sell": 928.6998,
+   "rate": 928.6998,
+   "updatedAt": "2026-09-28"
   },
   {
    "slug": "banplus",
@@ -80,20 +64,44 @@
    "updatedAt": "2026-09-25"
   },
   {
-   "slug": "bbva-provincial",
-   "name": "BBVA Provincial",
-   "buy": 855.5834,
-   "sell": 856.8857,
-   "rate": 856.8857,
-   "updatedAt": "2026-09-25"
+   "slug": "otras-instituciones",
+   "name": "Otras Instituciones",
+   "buy": 904.5278,
+   "sell": 901.0415,
+   "rate": 901.0415,
+   "updatedAt": "2026-09-28"
+  },
+  {
+   "slug": "banco-nacional-de-credito-bnc",
+   "name": "Banco Nacional de Crédito BNC",
+   "buy": 857.0056,
+   "sell": 870.6521,
+   "rate": 870.6521,
+   "updatedAt": "2026-09-28"
+  },
+  {
+   "slug": "banco-de-venezuela",
+   "name": "Banco de Venezuela",
+   "buy": 854.8632,
+   "sell": 857.0058,
+   "rate": 857.0058,
+   "updatedAt": "2026-09-28"
+  },
+  {
+   "slug": "banesco",
+   "name": "Banesco",
+   "buy": 896.7915,
+   "sell": 856.7567,
+   "rate": 856.7567,
+   "updatedAt": "2026-09-28"
   },
   {
    "slug": "n58-banco-digital",
    "name": "N58 Banco Digital",
-   "buy": 854.6453,
-   "sell": 854.6362,
-   "rate": 854.6362,
-   "updatedAt": "2026-09-25"
+   "buy": 855.6625,
+   "sell": 855.7907,
+   "rate": 855.7907,
+   "updatedAt": "2026-09-28"
   },
   {
    "slug": "banco-venezolano-de-credito",
