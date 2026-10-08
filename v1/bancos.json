@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T14:25:23+00:00",
+ "updatedAt": "2026-10-08T04:25:29+00:00",
  "source": "Banco Central de Venezuela — Tasas informativas del sistema bancario",
  "sourceUrl": "https://www.bcv.org.ve/tasas-informativas-sistema-bancario",
  "count": 16,
@@ -13,7 +13,7 @@
    "buy": 984.2253,
    "sell": 995.0,
    "rate": 995.0,
-   "updatedAt": "2026-10-06"
+   "updatedAt": "2026-10-07"
   },
   {
    "slug": "bancaribe",
@@ -37,7 +37,7 @@
    "buy": 965.0782,
    "sell": 950.0,
    "rate": 950.0,
-   "updatedAt": "2026-10-06"
+   "updatedAt": "2026-10-07"
   },
   {
    "slug": "banco-mercantil",
@@ -45,7 +45,7 @@
    "buy": 874.0225,
    "sell": 929.1615,
    "rate": 929.1615,
-   "updatedAt": "2026-10-06"
+   "updatedAt": "2026-10-07"
   },
   {
    "slug": "banco-venezolano-de-credito",
@@ -61,7 +61,7 @@
    "buy": 896.1638,
    "sell": 913.0969,
    "rate": 913.0969,
-   "updatedAt": "2026-10-06"
+   "updatedAt": "2026-10-07"
   },
   {
    "slug": "banplus",
@@ -77,7 +77,7 @@
    "buy": 950.4821,
    "sell": 901.398,
    "rate": 901.398,
-   "updatedAt": "2026-10-06"
+   "updatedAt": "2026-10-07"
   },
   {
    "slug": "bbva-provincial",
@@ -85,7 +85,7 @@
    "buy": 962.2645,
    "sell": 897.2288,
    "rate": 897.2288,
-   "updatedAt": "2026-10-06"
+   "updatedAt": "2026-10-07"
   },
   {
    "slug": "banco-nacional-de-credito-bnc",
