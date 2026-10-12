@@ -1,8 +1,8 @@
 {
- "updatedAt": "2026-10-11T14:25:21+00:00",
+ "updatedAt": "2026-10-12T04:25:32+00:00",
  "source": "Banco Central de Venezuela — Tasas informativas del sistema bancario",
  "sourceUrl": "https://www.bcv.org.ve/tasas-informativas-sistema-bancario",
- "count": 16,
+ "count": 15,
  "average": 937.4655,
  "averageCount": 10,
  "averageDays": 7,
@@ -126,14 +126,6 @@
    "sell": 818.3784,
    "rate": 818.3784,
    "updatedAt": "2026-09-08"
-  },
-  {
-   "slug": "banco-plaza",
-   "name": "Banco Plaza",
-   "buy": 815.0,
-   "sell": 805.284,
-   "rate": 805.284,
-   "updatedAt": "2026-08-27"
   }
  ]
 }
