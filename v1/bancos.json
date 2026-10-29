@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-10-28T15:25:22+00:00",
+ "updatedAt": "2026-10-29T05:25:24+00:00",
  "source": "Banco Central de Venezuela — Tasas informativas del sistema bancario",
  "sourceUrl": "https://www.bcv.org.ve/tasas-informativas-sistema-bancario",
  "count": 14,
- "average": 935.5701,
+ "average": 943.8375,
  "averageCount": 10,
  "averageDays": 7,
  "banks": [
@@ -18,26 +18,34 @@
   {
    "slug": "r4",
    "name": "R4",
-   "buy": 984.8985,
-   "sell": 995.3003,
-   "rate": 995.3003,
-   "updatedAt": "2026-10-27"
+   "buy": 992.2144,
+   "sell": 996.0,
+   "rate": 996.0,
+   "updatedAt": "2026-10-28"
   },
   {
    "slug": "banesco",
    "name": "Banesco",
-   "buy": 956.1622,
-   "sell": 966.7372,
-   "rate": 966.7372,
-   "updatedAt": "2026-10-27"
+   "buy": 979.9133,
+   "sell": 989.5859,
+   "rate": 989.5859,
+   "updatedAt": "2026-10-28"
   },
   {
    "slug": "banco-exterior",
    "name": "Banco Exterior",
-   "buy": 929.9226,
-   "sell": 960.4722,
-   "rate": 960.4722,
-   "updatedAt": "2026-10-23"
+   "buy": 957.5998,
+   "sell": 957.7992,
+   "rate": 957.7992,
+   "updatedAt": "2026-10-28"
+  },
+  {
+   "slug": "otras-instituciones",
+   "name": "Otras Instituciones",
+   "buy": 913.68,
+   "sell": 955.7309,
+   "rate": 955.7309,
+   "updatedAt": "2026-10-28"
   },
   {
    "slug": "bfc-banco-fondo-comun",
@@ -48,12 +56,12 @@
    "updatedAt": "2026-09-22"
   },
   {
-   "slug": "otras-instituciones",
-   "name": "Otras Instituciones",
-   "buy": 926.4308,
-   "sell": 951.3391,
-   "rate": 951.3391,
-   "updatedAt": "2026-10-27"
+   "slug": "banco-nacional-de-credito-bnc",
+   "name": "Banco Nacional de Crédito BNC",
+   "buy": 893.1902,
+   "sell": 946.5225,
+   "rate": 946.5225,
+   "updatedAt": "2026-10-28"
   },
   {
    "slug": "banco-sofitasa",
@@ -74,18 +82,10 @@
   {
    "slug": "banco-mercantil",
    "name": "Banco Mercantil",
-   "buy": 925.0075,
-   "sell": 889.6765,
-   "rate": 889.6765,
-   "updatedAt": "2026-10-27"
-  },
-  {
-   "slug": "banco-nacional-de-credito-bnc",
-   "name": "Banco Nacional de Crédito BNC",
-   "buy": 887.4871,
-   "sell": 887.575,
-   "rate": 887.575,
-   "updatedAt": "2026-10-23"
+   "buy": 917.757,
+   "sell": 888.1358,
+   "rate": 888.1358,
+   "updatedAt": "2026-10-28"
   },
   {
    "slug": "bbva-provincial",
