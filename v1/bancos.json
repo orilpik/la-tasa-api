@@ -1,20 +1,12 @@
 {
- "updatedAt": "2026-11-04T15:25:20+00:00",
+ "updatedAt": "2026-11-05T05:25:13+00:00",
  "source": "Banco Central de Venezuela — Tasas informativas del sistema bancario",
  "sourceUrl": "https://www.bcv.org.ve/tasas-informativas-sistema-bancario",
  "count": 15,
- "average": 952.7726,
+ "average": 949.6157,
  "averageCount": 11,
  "averageDays": 7,
  "banks": [
-  {
-   "slug": "bancaribe",
-   "name": "BanCaribe",
-   "buy": 988.0272,
-   "sell": 1000.2726,
-   "rate": 1000.2726,
-   "updatedAt": "2026-10-30"
-  },
   {
    "slug": "banco-exterior",
    "name": "Banco Exterior",
@@ -24,20 +16,20 @@
    "updatedAt": "2026-11-03"
   },
   {
-   "slug": "r4",
-   "name": "R4",
-   "buy": 940.0792,
-   "sell": 996.1086,
-   "rate": 996.1086,
-   "updatedAt": "2026-11-02"
+   "slug": "bancaribe",
+   "name": "BanCaribe",
+   "buy": 977.6155,
+   "sell": 994.4408,
+   "rate": 994.4408,
+   "updatedAt": "2026-11-04"
   },
   {
-   "slug": "banesco",
-   "name": "Banesco",
-   "buy": 969.8433,
-   "sell": 979.6193,
-   "rate": 979.6193,
-   "updatedAt": "2026-11-03"
+   "slug": "r4",
+   "name": "R4",
+   "buy": 988.9822,
+   "sell": 991.9,
+   "rate": 991.9,
+   "updatedAt": "2026-11-04"
   },
   {
    "slug": "100-banco",
@@ -66,10 +58,18 @@
   {
    "slug": "otras-instituciones",
    "name": "Otras Instituciones",
-   "buy": 928.7582,
-   "sell": 951.2082,
-   "rate": 951.2082,
-   "updatedAt": "2026-11-03"
+   "buy": 925.097,
+   "sell": 954.5271,
+   "rate": 954.5271,
+   "updatedAt": "2026-11-04"
+  },
+  {
+   "slug": "banesco",
+   "name": "Banesco",
+   "buy": 939.8058,
+   "sell": 950.5656,
+   "rate": 950.5656,
+   "updatedAt": "2026-11-04"
   },
   {
    "slug": "banco-nacional-de-credito-bnc",
@@ -88,12 +88,20 @@
    "updatedAt": "2026-10-23"
   },
   {
+   "slug": "bbva-provincial",
+   "name": "BBVA Provincial",
+   "buy": 893.2159,
+   "sell": 893.2672,
+   "rate": 893.2672,
+   "updatedAt": "2026-11-04"
+  },
+  {
    "slug": "banco-mercantil",
    "name": "Banco Mercantil",
-   "buy": 902.729,
-   "sell": 896.2232,
-   "rate": 896.2232,
-   "updatedAt": "2026-11-03"
+   "buy": 895.2581,
+   "sell": 893.2612,
+   "rate": 893.2612,
+   "updatedAt": "2026-11-04"
   },
   {
    "slug": "n58-banco-digital",
@@ -102,14 +110,6 @@
    "sell": 889.3953,
    "rate": 889.3953,
    "updatedAt": "2026-11-02"
-  },
-  {
-   "slug": "bbva-provincial",
-   "name": "BBVA Provincial",
-   "buy": 889.2346,
-   "sell": 889.2552,
-   "rate": 889.2552,
-   "updatedAt": "2026-10-30"
   },
   {
    "slug": "bangente",
