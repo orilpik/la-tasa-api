@@ -1,27 +1,27 @@
 {
- "updatedAt": "2026-11-17T15:25:14+00:00",
+ "updatedAt": "2026-11-18T05:25:27+00:00",
  "source": "Banco Central de Venezuela — Tasas informativas del sistema bancario",
  "sourceUrl": "https://www.bcv.org.ve/tasas-informativas-sistema-bancario",
  "count": 14,
- "average": 1000.8399,
+ "average": 993.9701,
  "averageCount": 11,
  "averageDays": 7,
  "banks": [
   {
-   "slug": "banco-exterior",
-   "name": "Banco Exterior",
-   "buy": 923.1441,
-   "sell": 1075.3488,
-   "rate": 1075.3488,
-   "updatedAt": "2026-11-16"
+   "slug": "banesco",
+   "name": "Banesco",
+   "buy": 1028.6596,
+   "sell": 1073.5259,
+   "rate": 1073.5259,
+   "updatedAt": "2026-11-17"
   },
   {
    "slug": "bancaribe",
    "name": "BanCaribe",
-   "buy": 1056.5921,
-   "sell": 1066.9555,
-   "rate": 1066.9555,
-   "updatedAt": "2026-11-13"
+   "buy": 1048.8914,
+   "sell": 1059.8858,
+   "rate": 1059.8858,
+   "updatedAt": "2026-11-17"
   },
   {
    "slug": "r4",
@@ -30,6 +30,14 @@
    "sell": 1058.0901,
    "rate": 1058.0901,
    "updatedAt": "2026-11-16"
+  },
+  {
+   "slug": "banco-exterior",
+   "name": "Banco Exterior",
+   "buy": 1031.4951,
+   "sell": 1049.1943,
+   "rate": 1049.1943,
+   "updatedAt": "2026-11-17"
   },
   {
    "slug": "bfc-banco-fondo-comun",
@@ -42,26 +50,18 @@
   {
    "slug": "otras-instituciones",
    "name": "Otras Instituciones",
-   "buy": 966.4051,
-   "sell": 1033.9526,
-   "rate": 1033.9526,
-   "updatedAt": "2026-11-16"
-  },
-  {
-   "slug": "banesco",
-   "name": "Banesco",
-   "buy": 993.6677,
-   "sell": 1025.7148,
-   "rate": 1025.7148,
-   "updatedAt": "2026-11-12"
+   "buy": 959.1851,
+   "sell": 989.1637,
+   "rate": 989.1637,
+   "updatedAt": "2026-11-17"
   },
   {
    "slug": "banco-nacional-de-credito-bnc",
    "name": "Banco Nacional de Crédito BNC",
-   "buy": 911.1766,
-   "sell": 972.468,
-   "rate": 972.468,
-   "updatedAt": "2026-11-13"
+   "buy": 924.2026,
+   "sell": 979.9728,
+   "rate": 979.9728,
+   "updatedAt": "2026-11-17"
   },
   {
    "slug": "100-banco",
@@ -72,20 +72,20 @@
    "updatedAt": "2026-11-02"
   },
   {
-   "slug": "banco-mercantil",
-   "name": "Banco Mercantil",
-   "buy": 955.8547,
-   "sell": 967.0137,
-   "rate": 967.0137,
-   "updatedAt": "2026-11-13"
-  },
-  {
    "slug": "banco-sofitasa",
    "name": "Banco Sofitasa",
    "buy": 938.7598,
    "sell": 941.3248,
    "rate": 941.3248,
    "updatedAt": "2026-11-12"
+  },
+  {
+   "slug": "banco-mercantil",
+   "name": "Banco Mercantil",
+   "buy": 987.0668,
+   "sell": 914.1432,
+   "rate": 914.1432,
+   "updatedAt": "2026-11-17"
   },
   {
    "slug": "bbva-provincial",
